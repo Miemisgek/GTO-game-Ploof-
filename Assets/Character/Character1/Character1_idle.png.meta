@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: bcda2a69b9a00264aa38df8c66a3af30
+timeCreated: 1445254746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character1_idle_0
+    21300002: Character1_idle_1
+    21300004: Character1_idle_2
+    21300006: Character1_idle_3
+    21300008: Character1_idle_4
+    21300010: Character1_idle_5
+    21300012: Character1_idle_6
+    21300014: Character1_idle_7
+    21300016: Character1_idle_8
+    21300018: Character1_idle_9
+    21300020: Character1_idle_10
+    21300022: Character1_idle_11
+    21300024: Character1_idle_12
+    21300026: Character1_idle_13
+    21300028: Character1_idle_14
+    21300030: Character1_idle_15
+    21300032: Character1_idle_16
+    21300034: Character1_idle_17
+    21300036: Character1_idle_18
+    21300038: Character1_idle_19
+    21300040: Character1_idle_20
+    21300042: Character1_idle_21
+    21300044: Character1_idle_22
+    21300046: Character1_idle_23
+    21300048: Character1_idle_24
+    21300050: Character1_idle_25
+    21300052: Character1_idle_26
+    21300054: Character1_idle_27
+    21300056: Character1_idle_28
+    21300058: Character1_idle_29
+    21300060: Character1_idle_30
+    21300062: Character1_idle_31
+    21300064: Character1_idle_32
+    21300066: Character1_idle_33
+    21300068: Character1_idle_34
+    21300070: Character1_idle_35
+    21300072: Character1_idle_36
+    21300074: Character1_idle_37
+    21300076: Character1_idle_38
+    21300078: Character1_idle_39
+    21300080: Character1_idle_40
+    21300082: Character1_idle_41
+    21300084: Character1_idle_42
+    21300086: Character1_idle_43
+    21300088: Character1_idle_44
+    21300090: Character1_idle_45
+    21300092: Character1_idle_46
+    21300094: Character1_idle_47
+    21300096: Character1_idle_48
+    21300098: Character1_idle_49
+    21300100: Character1_idle_50
+    21300102: Character1_idle_51
+    21300104: Character1_idle_52
+    21300106: Character1_idle_53
+    21300108: Character1_idle_54
+    21300110: Character1_idle_55
+    21300112: Character1_idle_56
+    21300114: Character1_idle_57
+    21300116: Character1_idle_58
+    21300118: Character1_idle_59
+    21300120: Character1_idle_60
+    21300122: Character1_idle_61
+    21300124: Character1_idle_62
+    21300126: Character1_idle_63
+    21300128: Character1_idle_64
+    21300130: Character1_idle_65
+    21300132: Character1_idle_66
+    21300134: Character1_idle_67
+    21300136: Character1_idle_68
+    21300138: Character1_idle_69
+    21300140: Character1_idle_70
+    21300142: Character1_idle_71
+    21300144: Character1_idle_72
+    21300146: Character1_idle_73
+    21300148: Character1_idle_74
+    21300150: Character1_idle_75
+    21300152: Character1_idle_76
+    21300154: Character1_idle_77
+    21300156: Character1_idle_78
+    21300158: Character1_idle_79
+    21300160: Character1_idle_80
+    21300162: Character1_idle_81
+    21300164: Character1_idle_82
+    21300166: Character1_idle_83
+    21300168: Character1_idle_84
+    21300170: Character1_idle_85
+    21300172: Character1_idle_86
+    21300174: Character1_idle_87
+    21300176: Character1_idle_88
+    21300178: Character1_idle_89
+    21300180: Character1_idle_90
+    21300182: Character1_idle_91
+    21300184: Character1_idle_92
+    21300186: Character1_idle_93
+    21300188: Character1_idle_94
+    21300190: Character1_idle_95
+    21300192: Character1_idle_96
+    21300194: Character1_idle_97
+    21300196: Character1_idle_98
+    21300198: Character1_idle_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character1_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1848
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1848
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1848
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1648
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1648
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character1_idle_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1648
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
