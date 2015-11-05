@@ -48,7 +48,10 @@
      <Compile Include="Assets\Scripts\Character1controller.cs" />
      <Compile Include="Assets\Scripts\Object.cs" />
      <Compile Include="Assets\Scripts\ObjectSpawner.cs" />
+     <Compile Include="Assets\Scripts\bomb.cs" />
+     <Compile Include="Assets\Scripts\enemy.cs" />
      <Compile Include="Assets\Scripts\playerHands.cs" />
+     <Compile Include="Assets\mainMenu\scripts\mainMenu.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>

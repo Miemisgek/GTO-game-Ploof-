@@ -10,8 +10,11 @@ public class ObjectSpawner : MonoBehaviour {
 	}
 
 	void Spawn () {
-        Instantiate(cube, new Vector2(Random.Range(-10, -4), 6), Quaternion.identity);
-        Instantiate(cube, new Vector2(Random.Range(4, 10), 6), Quaternion.identity);
+        GameObject objectLeft = (GameObject)Instantiate(cube, new Vector2(Random.Range(-10, -4), 6), Quaternion.identity);
+        GameObject objectRight = (GameObject)Instantiate(cube, new Vector2(Random.Range(4, 10), 6), Quaternion.identity);
+
+        objectLeft.transform.parent = transform;
+        objectRight.transform.parent = transform;
     }
 
 }

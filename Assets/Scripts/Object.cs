@@ -7,13 +7,11 @@ public class Object : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D coll)
     {
-
-        if(coll.gameObject.layer == LayerMask.NameToLayer("Player"))
+        
+        if(!isCatched && coll.gameObject.layer == LayerMask.NameToLayer("Player"))
         {
-            isCatched = true;
-            transform.parent = coll.transform;
-            transform.position = coll.transform.GetComponentInChildren<playerHands>().transform.position;
-            Destroy(GetComponent<Rigidbody2D>());
+            // geeft de boolean terug true or false gevangen
+            isCatched = coll.gameObject.GetComponent<Character1controller>().setHasObject(this.gameObject);
         }
         else if(coll.gameObject.tag == "ground")
         {
